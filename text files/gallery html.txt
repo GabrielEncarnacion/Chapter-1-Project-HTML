@@ -1,0 +1,31 @@
+<!--Project coded by Thomas Snyder and Michael Roberts. This should be the gallery page.-->
+	<!DOCtype html>
+	<html lang="EN">
+	<body>
+	<head>
+	<title>VonGrotten Gallery Page</title>
+	</head>
+		<header> Welcome to the VonGrotten Gallery!</header>
+			<h1> Welcome! </h1>
+				<p> Here at the gallery, visitors can view and purchase some of
+				 the prints and stories VonGrotten has to offer. None of these expenses go 
+				 towards the fan group. </p>
+
+				<u1>
+					<li><img src="Spiral.jpg" alt="Spiral" style="width:300px;height:400px;">
+						<p>Spiral - $35</p></li>
+					<li><img src="Warped.jpg" alt="Warped Geometry" style="width:300px;height:400px;">
+						<p>Warped Geometry - $20</p></li>
+					<li><img src="Eye.jpg" alt="Eye Back" style="width:300px;height:400px;">
+						<p>Eye Back - $40</p></li>
+					<li><img src="Blind.jpg" alt="Blind Prophet" style="width:300px;height:400px;">
+						<p>Blind Prophet - $60</p></li>
+				</u1>	
+
+				<a HREF="index.html">Go back to the index page.</a>
+
+				<footer> &#169; 2020 VonGrotten Fan Group. All Rights Reserved. </footer>
+
+</body>
+</html>
+<!--I will remove the margins styles if it's a problem, the images just didn't work on the page without them. - MR -->

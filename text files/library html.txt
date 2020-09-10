@@ -1,0 +1,46 @@
+<!--Project coded by Thomas Snyder and Michael Roberts. This should be the library page.-->
+	<!DOCtype html>
+	<html lang="EN">
+	<body>
+	<head>
+	<title>VonGrotten Library Page</title>
+	</head>
+		<header> Welcome to the VonGrotten Library!</header>
+			<h1> Welcome! </h1>
+				<p> VonGrotten has always had a special connection with the colder side of
+				 the year. His stories are renowned for their pulse pounding and spell
+				 binding concepts as well as their climatic pays offs. Below we have a 
+				 number of exciting and tasteful books to purchase from
+				 Harris’ collection. </p>
+
+				 <ol>
+				 	<li> "Children Beneath the Stars" $29.99 </li>
+				 	<li> "The Spiraling in the WheelHouse" $29.99 </li>
+				 	<li> "The Dead Man’s Nails" $34.99 </li>
+				 	<li> "Deeds of the Flesh" $19.99 </li>
+				 	<li> "Watcher from the Dark" $29.99 </li>
+				 	<li> "The Pins in Your Eyes" $39.99</li>
+				 	<li> "Letting Go in Outer Dark" $19.99</li>
+				 	<li> "Thy Flesh Becomes One" $14.99 </li>
+				 	<li> "Rotten from Inside to Out" $14.99</li>
+				 	<li> "Puffs of Smoke in the Red Room" $29.99 </li>
+				 	<li> "Spreading Ashes" $34.99 </li>
+				 	<li> "Cubes $19.99" </li>
+				 	<li> "Bones Cradles and the Bundles Inside" $29.99</li>
+				 	<li> "Mr. Utero" $19.99</li>
+				 	<li> "Ink Booth Massacres" $19.99 </li>
+				 	<li> "Blood Puddin'" $24.99 </li>
+				 	<li> "The House Dirt Built" $19.99 </li>
+				 	<li> "A Series of Intricate Cuts: An AutoBiography" $21.99</li>
+				 	<li> "Dancing in Basement Puddles" $21.99 </li>
+				 </ol>	
+
+			<a HREF="index.html">Go back to the index page.</a>
+
+			<footer> &#169; 2020 VonGrotten Fan Group. All Rights Reserved. </footer>
+
+</body>
+</html>
+
+<!--If the margins code end up being removed, should I combine the library and gallery pages?
+If that's the case, I can go ahead and code an about page or whatever seems necessary.-->
